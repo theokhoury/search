@@ -148,7 +148,6 @@ mypy-extensions==1.0.0
 mysql-connector-python==8.4.0
 narwhals==1.19.1
 neo4j==5.24.0
-nest-asyncio==1.6.0
 nltk==3.8.2
 numba==0.60.0
 numpy==1.26.4
