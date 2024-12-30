@@ -146,7 +146,6 @@ multipledispatch==1.0.0
 murmurhash==1.0.10
 mypy-extensions==1.0.0
 mysql-connector-python==8.4.0
-narwhals==1.19.1
 nltk==3.8.2
 numba==0.60.0
 numpy==1.26.4
